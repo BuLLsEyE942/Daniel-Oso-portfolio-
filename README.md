@@ -11,7 +11,7 @@
 
 </head>
 <body style="background-color: cornsilk;"  background text="black">
-   <p><b>Oso Daniel Oluwanifemi <br>18/67AM/00237</b></p> <br>  <right><img src="images/Snapchat-1104816201.jpg" alt="status" style="width: 20%;" ><b> AN ONLINE TRADER AND ENTERTAINER</b><br><br></right>
+   <p><b>Oso Daniel Oluwanifemi <br>18/67AM/00237</b></p> <br>  <right><img "images/Snapchat-1104816201.jpg" alt="status" style="width: 20%;" ><b> AN ONLINE TRADER AND ENTERTAINER</b><br><br></right>
 
    <p><b> PROFILE:</b> <br>I am a student of KWARA STATE UNIVERSITY from the college of INFORMATION AND COMMUNICATION TECHNOLOGY, in the department of computer science, <br>   </p> 
   
